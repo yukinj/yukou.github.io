@@ -1,16 +1,11 @@
 ---
 layout: page
 title: About me
-subtitle: Why you'd want to go on a date with me
+subtitle: Why you should give me an job offer
 ---
 
-My name is Inigo Montoya. I have the following qualities:
-
-- I rock a great mustache
-- I'm extremely loyal to my family
-
-What else do you need?
-
-### my history
-
-To be honest, I'm having some trouble remembering right now, so why don't you just watch [my movie](https://en.wikipedia.org/wiki/The_Princess_Bride_%28film%29) and it will answer **all** your questions.
+My name is Yu Kou. I am a graduate student in Computer Science. I am actively seeking for job opportunities.
+I have great interest in Big Data Engineering and Full Stack positions. Please feel free to contact me if you have positions open.
+### my Resume
+plese contact me to get my 
+ [newest resume](yuki.coco7@gmail.com) and it will answer **all** your questions.
