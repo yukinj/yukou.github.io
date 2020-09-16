@@ -5,6 +5,7 @@ gh-badge: [star, fork, follow]
 tags: [Array,Stack]
 comments: true
 ---
+[refer](https://leetcode.com/discuss/interview-question/380650/Bloomberg-or-Phone-Screen-or-Candy-Crush-1D/342375)
 ```python
 """
 main idea: loop through each char and count char that is same in the row, until encounter a different char, store previous char and cnt into stack; then check if candies can be crushed by checking top of stack, if yes, crush candies first before push new char and cnt  into stack;
